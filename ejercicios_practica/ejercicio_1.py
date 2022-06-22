@@ -12,6 +12,9 @@
 numero_1 = 5
 numero_2 = 7
 
+operacion = numero_1 + numero_2
+
+
 # Realizar la suma de las dos variables
 # numero_1 y numero_2
 # Almacenar el valor de la suma en una variable
@@ -21,4 +24,10 @@ numero_2 = 7
 # Imprimir en pantalla el resultado de la suma
 # print(....)
 
+print ("la suma de", numero_1, "y", numero_2, "es igual a", operacion)
+
 # Repita el procedimiento para realizar la resta
+
+operacion2 = numero_1 - numero_2
+
+print ("la resta de", numero_1, "y", numero_2, "es igual a", operacion2)
